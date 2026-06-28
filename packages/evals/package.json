@@ -16,7 +16,7 @@
     "@langchain/core": "^1.1.39",
     "@langchain/openai": "^0.4.2",
     "@opencanvas/agents": "*",
-    "langsmith": "^0.5.19",
+    "langsmith": "^0.7.13",
     "zod": "^3.24.1",
     "dotenv": "^16.4.7"
   },
@@ -33,6 +33,6 @@
     "tsx": "^4.19.1",
     "turbo": "latest",
     "typescript": "^5",
-    "vitest": "^3.0.4"
+    "vitest": "^4.1.9"
   }
 }
